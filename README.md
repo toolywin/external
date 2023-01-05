@@ -19,6 +19,6 @@ Currently we only need you to open a pull request for 1 JSON file. Just a few pa
 	"maintainers": [
 		"toolywin" // GitHub username
 	],
-	"DateAdded": "2023-01-05" // format: Y-MM-d
+	"date_added": "2023-01-05" // format: Y-MM-d
 }
 ```

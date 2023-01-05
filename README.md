@@ -4,7 +4,7 @@ This repository hosts a collection of useful online tools, live on https://tooly
 # Contributing
 Everyone may [open a pull request](https://github.com/toolywin/external/compare) to contribute any useful tool at somewhere. The tools could be made by you or someone.
 
-[Read GitHub Dccs for Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+[Read GitHub Docs for Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 # Requirements
 Currently we only need you to open a pull request for 1 JSON file. Just a few parameters to remember:

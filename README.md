@@ -1,5 +1,5 @@
 # Real Tool Hub by Everyone for All
-This repository hosts a collection of useful online tools, live on https://tooly.win/external/
+This repository hosts a collection of useful online tools, live on https://tooly.win/hub/
 
 # Contributing
 Everyone may [open a pull request](https://github.com/toolywin/external/compare) to contribute any useful tool at somewhere. The tools could be made by you or someone.

@@ -1,0 +1,10 @@
+{
+	"name": "Temp Mail",
+	"desc": "Create a temporary, secure, anonymous, free, disposable email address.",
+	"url": "https://temp-mail.org/",
+	"tags": [
+		"Email",
+		"Misc",
+	],
+	"maintainers": []
+}

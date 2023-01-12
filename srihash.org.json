@@ -1,0 +1,9 @@
+{
+	"name": "SRI Hash Generator",
+	"desc": "Create Subresource Integrity (SRI).",
+	"url": "https://www.srihash.org/",
+	"tags": [
+		"Security"
+	],
+	"maintainers": []
+}
